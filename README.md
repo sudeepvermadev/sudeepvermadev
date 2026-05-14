@@ -12,15 +12,18 @@
 
 ---
 
+---
+
 ### 💻 Technical Spotlight: [PrepEdge — AI Mock Interview Coach](https://github.com/sudeepvermadev/aimockinterview)
 > **Engineering high-fidelity AI systems for career preparation.**
 
-*   **⚡ AI Core**: Integrated **Google Gemini** & **Vapi AI** for low-latency, voice-first interview simulation.
-*   **🛡️ Reliability**: Implemented **Jest** unit testing for core scoring logic, ensuring data integrity across complex AI transcripts.
-*   **📊 Analytics**: Built a robust **Admin Dashboard** for real-time user performance metrics and financial tracking.
-*   **🔧 Clean Code**: Adhering to professional standards with rigorous Git history management and security-locked environment variables.
+*   <img src="https://img.shields.io/badge/AI_Core-6366F1?style=flat-square&logo=google-gemini&logoColor=white" /> **Integrated AI Engines**: Leveraged **Google Gemini** & **Vapi AI** for low-latency, voice-first interview simulation and adaptive questioning.
+*   <img src="https://img.shields.io/badge/Quality_Assurance-2EC866?style=flat-square&logo=jest&logoColor=white" /> **Robust Reliability**: Implemented **Jest** unit testing for core scoring logic, ensuring 100% data integrity across complex AI transcripts.
+*   <img src="https://img.shields.io/badge/Analytics-007ACC?style=flat-square&logo=google-analytics&logoColor=white" /> **Data Architecture**: Built a multi-tenant **Admin Dashboard** for real-time user performance metrics and financial tracking.
+*   <img src="https://img.shields.io/badge/Security-D14836?style=flat-square&logo=git&logoColor=white" /> **Clean Engineering**: Adhering to professional standards with rigorous Git history management and security-locked environment variables.
 
 ---
+
 
 ### 🛠️ Core Competencies
 
