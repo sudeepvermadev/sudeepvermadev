@@ -59,10 +59,10 @@
 ### 🌱 I'm currently...
 - 🧠 Deepening expertise in **System Design** and **Distributed Architecture**.
 - 🛠️ Optimizing AI models in **PrepEdge** for more granular user feedback.
-- 🎯 Open for **Software Engineering Internships** (Summer 2024).
+
 
 <p align="right">
-  <i>"Learning is the best way to evaluate yourself."</i>
+  <i>"Inner peace is the first step toward a better self."</i>
 </p>
 
 <p align="center">
