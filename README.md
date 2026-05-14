@@ -12,41 +12,35 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Technical_Spotlight-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=6366F1" /><br>
-  <b><a href="https://github.com/sudeepvermadev/aimockinterview">PrepEdge — AI Mock Interview Coach</a></b><br>
-  <i>Engineering high-fidelity AI systems for career preparation.</i>
-</p>
+### <img src="https://img.shields.io/badge/Technical_Spotlight-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=6366F1" /> [PrepEdge — AI Mock Interview Coach](https://github.com/sudeepvermadev/aimockinterview)
+> **Engineering high-fidelity AI systems for career preparation.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Core-6366F1?style=flat-square&logo=google-gemini&logoColor=white" /> Integrated <b>Google Gemini</b> & <b>Vapi AI</b> for low-latency interview simulation.<br>
-  <img src="https://img.shields.io/badge/Quality_Assurance-2EC866?style=flat-square&logo=jest&logoColor=white" /> Implemented <b>Jest</b> unit testing for core scoring logic and data integrity.<br>
-  <img src="https://img.shields.io/badge/Analytics-007ACC?style=flat-square&logo=google-analytics&logoColor=white" /> Built a multi-tenant <b>Admin Dashboard</b> for user performance metrics.<br>
-  <img src="https://img.shields.io/badge/Security-D14836?style=flat-square&logo=git&logoColor=white" /> Adhering to professional standards with rigorous <b>Git history management</b>.
-</p>
+*   <img src="https://img.shields.io/badge/AI_Core-6366F1?style=flat-square&logo=google-gemini&logoColor=white" /> **Integrated AI Engines**: Leveraged **Google Gemini** & **Vapi AI** for low-latency, voice-first interview simulation and adaptive questioning.
+*   <img src="https://img.shields.io/badge/Quality_Assurance-2EC866?style=flat-square&logo=jest&logoColor=white" /> **Robust Reliability**: Implemented **Jest** unit testing for core scoring logic, ensuring 100% data integrity across complex AI transcripts.
+*   <img src="https://img.shields.io/badge/Analytics-007ACC?style=flat-square&logo=google-analytics&logoColor=white" /> **Data Architecture**: Built a multi-tenant **Admin Dashboard** for real-time user performance metrics and financial tracking.
+*   <img src="https://img.shields.io/badge/Security-D14836?style=flat-square&logo=git&logoColor=white" /> **Clean Engineering**: Adhering to professional standards with rigorous Git history management and security-locked environment variables.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Core_Competencies-1F2937?style=for-the-badge&logo=codeforces&logoColor=6366F1" />
-</p>
+### <img src="https://img.shields.io/badge/Core_Competencies-1F2937?style=for-the-badge&logo=codeforces&logoColor=6366F1" />
 
-<p align="center">
+<p align="left">
   <b>Languages & Data</b><br>
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,mysql,postgres" /><br><br>
+  
   <b>Frontend Engineering</b><br>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" /><br><br>
+  
   <b>Backend & Infrastructure</b><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,gcp" /><br><br>
+  
   <b>Developer Experience</b><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jest,postman" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Engineering_Impact-1F2937?style=for-the-badge&logo=google-analytics&logoColor=6366F1" />
-</p>
+### <img src="https://img.shields.io/badge/Engineering_Impact-1F2937?style=for-the-badge&logo=google-analytics&logoColor=6366F1" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudeepvermadev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -55,24 +49,19 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Activity_Trajectory-1F2937?style=for-the-badge&logo=activitypub&logoColor=6366F1" />
-</p>
-
+### <img src="https://img.shields.io/badge/Activity_Trajectory-1F2937?style=for-the-badge&logo=activitypub&logoColor=6366F1" />
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeepvermadev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-<p align="center">
-  <b>🌱 I'm currently...</b><br>
-  Deepening expertise in <b>System Design</b> and <b>Distributed Architecture</b>.<br>
-  Optimizing AI models in <b>PrepEdge</b> for more granular user feedback.<br>
-  🎯 Open for <b>Software Engineering Internships</b> (Summer 2024).
-</p>
+### 🌱 I'm currently...
+- 🧠 Deepening expertise in **System Design** and **Distributed Architecture**.
+- 🛠️ Optimizing AI models in **PrepEdge** for more granular user feedback.
+- 🎯 Open for **Software Engineering Internships** (Summer 2024).
 
-<p align="center">
+<p align="right">
   <i>"Learning is the best way to evaluate yourself."</i>
 </p>
 
