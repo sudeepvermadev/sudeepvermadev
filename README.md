@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Sudeep Verma! 👋
 
-<!--
-**sudeepvermadev/sudeepvermadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Aspiring Full Stack Developer** with a passion for building real-world systems from frontend to backend. Currently focused on **Next.js 15**, **AI Integration**, and **Scalable Web Applications**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend**: Next.js, React.js, Tailwind CSS, Framer Motion
+- **Backend**: Node.js, Express.js, Firebase (Firestore, Auth)
+- **Databases**: SQL, MySQL, MongoDB
+- **AI/Cloud**: Google Gemini AI, Vapi AI, Resend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Project
+- **PrepEdge**: An AI-powered mock interview platform designed to help professionals master their career preparation. [Check it out!](https://github.com/sudeepvermadev/aimockinterview)
+
+### 📈 Stats & Activity
+- 🌱 Learning: Advanced System Design & Automated Testing (Jest)
+- 🎓 Student at: School of Computer Science and Information Technology (SCSIT), DAVV Indore
+- 📍 Location: Madhya Pradesh, India
+
+---
+[LinkedIn](https://linkedin.com/in/sudeepvermadev) | [HackerRank](https://www.hackerrank.com/sudeepverma2006)
