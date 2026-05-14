@@ -12,23 +12,31 @@
 
 ---
 
-### 💻 Technical Spotlight: [PrepEdge](https://github.com/sudeepvermadev/aimockinterview)
+### 💻 Technical Spotlight: [PrepEdge — AI Mock Interview Coach](https://github.com/sudeepvermadev/aimockinterview)
 > **Engineering high-fidelity AI systems for career preparation.**
 
 *   **⚡ AI Core**: Integrated **Google Gemini** & **Vapi AI** for low-latency, voice-first interview simulation.
-*   **🛡️ Reliability**: Implemented **Jest** unit testing for core scoring logic, ensuring data integrity.
-*   **📊 Analytics**: Built a multi-tenant **Admin Dashboard** for real-time user performance metrics.
+*   **🛡️ Reliability**: Implemented **Jest** unit testing for core scoring logic, ensuring data integrity across complex AI transcripts.
+*   **📊 Analytics**: Built a robust **Admin Dashboard** for real-time user performance metrics and financial tracking.
+*   **🔧 Clean Code**: Adhering to professional standards with rigorous Git history management and security-locked environment variables.
 
 ---
 
 ### 🛠️ Core Competencies
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | JavaScript, TypeScript, SQL, C++ (DSA) |
-| **Frontend** | Next.js 15, React 19, Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Express, Firebase Serverless |
-| **Engineering** | Git, Jest Testing, CI/CD Pipelines, REST APIs |
+<p align="left">
+  <b>Languages & Data</b><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,mysql,postgres" /><br><br>
+  
+  <b>Frontend Engineering</b><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" /><br><br>
+  
+  <b>Backend & Infrastructure</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,gcp" /><br><br>
+  
+  <b>Developer Experience</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jest,postman" />
+</p>
 
 ---
 
@@ -51,7 +59,7 @@
 ### 🌱 I'm currently...
 - 🧠 Deepening expertise in **System Design** and **Distributed Architecture**.
 - 🛠️ Optimizing AI models in **PrepEdge** for more granular user feedback.
-- 🎯 Open for **Software Engineering Internships** (Summer 2024).
+- 🎯 Actively seeking **Software Engineering Internships** (Summer 2024).
 
 <p align="right">
   <i>"Learning is the best way to evaluate yourself."</i>
