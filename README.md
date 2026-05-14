@@ -12,9 +12,7 @@
 
 ---
 
----
-
-### 💻 Technical Spotlight: [PrepEdge — AI Mock Interview Coach](https://github.com/sudeepvermadev/aimockinterview)
+### <img src="https://img.shields.io/badge/Technical_Spotlight-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=6366F1" /> [PrepEdge — AI Mock Interview Coach](https://github.com/sudeepvermadev/aimockinterview)
 > **Engineering high-fidelity AI systems for career preparation.**
 
 *   <img src="https://img.shields.io/badge/AI_Core-6366F1?style=flat-square&logo=google-gemini&logoColor=white" /> **Integrated AI Engines**: Leveraged **Google Gemini** & **Vapi AI** for low-latency, voice-first interview simulation and adaptive questioning.
@@ -24,8 +22,7 @@
 
 ---
 
-
-### 🛠️ Core Competencies
+### <img src="https://img.shields.io/badge/Core_Competencies-1F2937?style=for-the-badge&logo=codeforces&logoColor=6366F1" />
 
 <p align="left">
   <b>Languages & Data</b><br>
@@ -43,7 +40,7 @@
 
 ---
 
-### 📊 Engineering Impact Metrics
+### <img src="https://img.shields.io/badge/Engineering_Impact-1F2937?style=for-the-badge&logo=google-analytics&logoColor=6366F1" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudeepvermadev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -52,7 +49,7 @@
 
 ---
 
-### ⚡ Activity Trajectory
+### <img src="https://img.shields.io/badge/Activity_Trajectory-1F2937?style=for-the-badge&logo=activitypub&logoColor=6366F1" />
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeepvermadev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
@@ -62,7 +59,7 @@
 ### 🌱 I'm currently...
 - 🧠 Deepening expertise in **System Design** and **Distributed Architecture**.
 - 🛠️ Optimizing AI models in **PrepEdge** for more granular user feedback.
-
+- 🎯 Open for **Software Engineering Internships** (Summer 2024).
 
 <p align="right">
   <i>"Learning is the best way to evaluate yourself."</i>
