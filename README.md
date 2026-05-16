@@ -15,69 +15,56 @@
 ### <img src="https://img.shields.io/badge/Technical_Spotlight-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=6366F1" /> [PrepEdge — AI Mock Interview Coach](https://github.com/sudeepvermadev/aimockinterview)
 > **Engineering high-fidelity AI systems for career preparation.**
 
----
-
-### 📺 Visual Walkthrough
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1u3PeOtdt820JWpEIywgZr5h2KpBsM9WC/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/WATCH-FULL%20PLATFORM%20WALKTHROUGH-red?style=for-the-badge&logo=google-drive&logoColor=white" height="35px" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1MrG4uBELyn83R_efhc6RO5kFAFgMZd4V/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/WATCH-AI%20INTERVIEW%20EXPERIENCE-blue?style=for-the-badge&logo=google-drive&logoColor=white" height="35px" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Experience the power of PrepEdge in action—from full platform analytics to live AI-driven interview sessions.</i>
-</p>
+*   <img src="https://img.shields.io/badge/AI_Core-6366F1?style=flat-square&logo=google-gemini&logoColor=white" /> **Integrated AI Engines**: Leveraged **Google Gemini** & **Vapi AI** for low-latency, voice-first interview simulation and adaptive questioning.
+*   <img src="https://img.shields.io/badge/Quality_Assurance-2EC866?style=flat-square&logo=jest&logoColor=white" /> **Robust Reliability**: Implemented **Jest** unit testing for core scoring logic, ensuring 100% data integrity across complex AI transcripts.
+*   <img src="https://img.shields.io/badge/Analytics-007ACC?style=flat-square&logo=google-analytics&logoColor=white" /> **Data Architecture**: Built a multi-tenant **Admin Dashboard** for real-time user performance metrics and financial tracking.
+*   <img src="https://img.shields.io/badge/Security-D14836?style=flat-square&logo=git&logoColor=white" /> **Clean Engineering**: Adhering to professional standards with rigorous Git history management and security-locked environment variables.
 
 ---
 
-### 🚀 Core Features
-
--   <img src="https://img.shields.io/badge/AI_Core-6366F1?style=flat-square&logo=google-gemini&logoColor=white" /> **Integrated AI Engines**: Leveraged **Google Gemini** & **Vapi AI** for low-latency, voice-first interview simulation and adaptive questioning.
--   <img src="https://img.shields.io/badge/Analytics-007ACC?style=flat-square&logo=google-analytics&logoColor=white" /> **Data Architecture**: Built a multi-tenant **Admin Dashboard** for real-time user performance metrics and financial tracking.
--   <img src="https://img.shields.io/badge/Quality_Assurance-2EC866?style=flat-square&logo=jest&logoColor=white" /> **Robust Reliability**: Implemented **Jest** unit testing for core scoring logic, ensuring 100% data integrity across complex AI transcripts.
--   <img src="https://img.shields.io/badge/Security-D14836?style=flat-square&logo=git&logoColor=white" /> **Clean Engineering**: Adhering to professional standards with rigorous Git history management and security-locked environment variables.
-
----
-
-### 🛠️ Tech Stack
+### <img src="https://img.shields.io/badge/Core_Competencies-1F2937?style=for-the-badge&logo=codeforces&logoColor=6366F1" />
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,firebase,gcp,mysql,postgres,ts,js,git,github,vscode,jest,postman" />
+  <b>Languages & Data</b><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,mysql,postgres" /><br><br>
+  
+  <b>Frontend Engineering</b><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" /><br><br>
+  
+  <b>Backend & Infrastructure</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,gcp" /><br><br>
+  
+  <b>Developer Experience</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jest,postman" />
 </p>
 
 ---
 
-### 🧠 Technical Deep Dive
+### <img src="https://img.shields.io/badge/Engineering_Impact-1F2937?style=for-the-badge&logo=google-analytics&logoColor=6366F1" />
 
-#### 1. Dual-AI Architecture
-PrepEdge leverages two distinct AI systems to provide a seamless experience:
-*   **Vapi.ai (Voice Engine)**: Manages the WebRTC connection, handle-offs, and speech-to-text/text-to-speech. This ensures sub-second latency for a natural conversation.
-*   **Google Gemini (Analysis Engine)**: Processes the finalized transcript to perform "Technical Benchmarking"—comparing user answers against industry-standard "Ideal Answers."
-
-#### 2. Intelligent Score Extraction
-One of the core challenges was parsing numeric scores from conversational AI output. We implemented a **multi-stage regex parser** in `lib/utils.ts` that:
-1.  Identifies score patterns (e.g., `85/100`, `Score: 90`).
-2.  Handles edge cases like natural language processing for word-based scores (e.g., "Eighty-Five").
-
-#### 3. Real-time Synchronization
-The system uses **Firebase Firestore** for real-time state management, allowing the "Live Pro Tips" and "Voice Indicators" to react instantly as the AI processes the candidate's speech.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudeepvermadev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepvermadev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-### 🚀 Getting Started
+### <img src="https://img.shields.io/badge/Activity_Trajectory-1F2937?style=for-the-badge&logo=activitypub&logoColor=6366F1" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeepvermadev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
-#### Prerequisites
-- Node.js (v18+)
-- API Keys for Gemini, Vapi, Stripe, and Resend
+---
 
-#### Installation
-```bash
-git clone https://github.com/sudeepvermadev/aimockinterview.git
-cd aimockinterview/my-app
-npm install
-npm run dev
+### 🌱 I'm currently...
+- 🧠 Deepening expertise in **System Design** and **Distributed Architecture**.
+- 🛠️ Optimizing AI models in **PrepEdge** for more granular user feedback.
+
+
+<p align="right">
+  <i>"Inner peace is the first step toward a better self."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
