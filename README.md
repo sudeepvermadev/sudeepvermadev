@@ -12,7 +12,7 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/Technical_Spotlight-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=6366F1" /> [PrepEdge — AI Mock Interview Coach](https://github.com/sudeepvermadev/aimockinterview)
+### <img src="https://img.shields.io/badge/Technical_Spotlight-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=6366F1" /> [PrepEdge — AI Mock Interviews ](https://github.com/sudeepvermadev/aimockinterview)
 > **Engineering high-fidelity AI systems for career preparation.**
 
 *   <img src="https://img.shields.io/badge/AI_Core-6366F1?style=flat-square&logo=google-gemini&logoColor=white" /> **Integrated AI Engines**: Leveraged **Google Gemini** & **Vapi AI** for low-latency, voice-first interview simulation and adaptive questioning.
